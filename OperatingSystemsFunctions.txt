@@ -5,3 +5,7 @@ It checks your computer and makes sure it is ready to work.
 A second function of an operating system is processor management.
 Processor managment keeps track of the processor and status of process.
 It enables the processor to share and exange information.
+
+A third function of an operating system is memory managment. 
+It keeps track of the primary memory, what has and hasn't been used.  
+it keeps track of the status of each memory location. 
