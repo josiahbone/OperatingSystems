@@ -1,3 +1,7 @@
 One function of an operating system is booting. 
 Booting is a startup sequence that starts the operating system of a computer when it is turned on. 
 It checks your computer and makes sure it is ready to work.
+
+A second function of an operating system is processor management.
+Processor managment keeps track of the processor and status of process.
+It enables the processor to share and exange information.
